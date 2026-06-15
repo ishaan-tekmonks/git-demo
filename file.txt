@@ -4,3 +4,4 @@ Change 3
 Change 4
 
 change in hotfix 1
+change in hotfix 2
