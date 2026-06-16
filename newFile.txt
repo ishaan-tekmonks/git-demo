@@ -1,0 +1,2 @@
+this is the new file 
+and this is the new commit 1 for this file
